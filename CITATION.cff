@@ -3,13 +3,13 @@ message: "If you use this software, please cite it as below."
 authors:
   - family-names: "Cardenas-Barrera"
     given-names: "Julian"
-    orcid: "https://orcid.org/0000-0000-0000-0000"
+    orcid: "https://orcid.org/0000-0002-3674-3995"
     affiliation: "University of New Brunswick"
 title: "Wind Power Ramp Severity Indices (ECSI)"
 version: 1.0.0
 doi: 10.xxxx/xxxxx
 date-released: 2026-01-01
-url: "https://github.com/[username]/wind-ramp-severity-indices"
+url: "https://github.com/j-cardena/wind-ramp-severity-indices"
 license: MIT
 keywords:
   - wind power
@@ -17,7 +17,7 @@ keywords:
   - severity index
   - power systems
   - renewable energy
-repository-code: "https://github.com/[username]/wind-ramp-severity-indices"
+repository-code: "https://github.com/j-cardena/wind-ramp-severity-indices"
 preferred-citation:
   type: article
   authors:
