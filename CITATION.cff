@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "Cardenas-Barrera"
+    given-names: "Julian"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+    affiliation: "University of New Brunswick"
+title: "Wind Power Ramp Severity Indices (ECSI)"
+version: 1.0.0
+doi: 10.xxxx/xxxxx
+date-released: 2026-01-01
+url: "https://github.com/[username]/wind-ramp-severity-indices"
+license: MIT
+keywords:
+  - wind power
+  - ramp events
+  - severity index
+  - power systems
+  - renewable energy
+repository-code: "https://github.com/[username]/wind-ramp-severity-indices"
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Cardenas-Barrera"
+      given-names: "Julian"
+  title: "Beyond Magnitude and Rate: Shape-Based Severity Indices for Wind Power Ramp Events with Validated Unique Information Content"
+  journal: "[Journal Name]"
+  year: 2026
+  doi: 10.xxxx/xxxxx
